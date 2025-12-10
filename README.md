@@ -1,4 +1,4 @@
-# SecureVote
+# SecureVote - Secure Blockchain Based Voting App
 ### Restoring Trust in Democracy through Immutable Technology
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Flutter](https://img.shields.io/badge/Flutter-3.0-02569B.svg) ![Blockchain](https://img.shields.io/badge/Blockchain-Ethereum-3C3C3D.svg) ![Status](https://img.shields.io/badge/Status-Undergraduate_Final_Project-success.svg)
